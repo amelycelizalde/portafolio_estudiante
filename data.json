@@ -1,0 +1,110 @@
+{
+  "hero": {
+    "title": "Hola, soy Ale"
+  },
+  "about": {
+    "title": "Acerca de Mí",
+    "text": "Actualmente estoy aprendiendo programación orientada a objetos en Python. Me gusta muchísimo el desarrollo de videojuegos."
+  },
+
+  "frase": [
+    {
+      "title": "2 años de experiencia en programación",
+      "subtitle": ""
+    },
+    {
+      "title": "Actualmente, aprendiendo programación Lua en Roblox Studio",
+      "subtitle": ""
+    }
+  ],
+
+
+  "skills": {
+    "title": "HABILIDADES",
+    "codeSoftware": [
+      { "name": "SCRATCH", "icon": "imagenes/icons/scratch.png" },
+      { "name": "LUA Y ROBLOX STUDIO", "icon": "imagenes/icons/roblox.png" },
+      { "name": "PYTHON", "icon": "imagenes/icons/python.png" },
+      { "name": "VISUAL STUDIO CODE", "icon": "imagenes/icons/vscode.png" }
+    ],
+    "aptitudes": [
+      { "name": "Creatividad", "icon": "fa-solid fa-palette" },
+      { "name": "Comunicación", "icon": "fa-solid fa-comment" },
+      { "name": "Honestidad", "icon": "fa-solid fa-heart" },
+      { "name": "Proactividad", "icon": "fa-solid fa-bolt" },
+      { "name": "Responsabilidad", "icon": "fa-solid fa-medal" },
+      { "name": "Trabajo en equipo", "icon": "fa-solid fa-users" }
+    ]
+  },
+
+  "experiencia": [
+    {
+      "title": "Curso de Programación Scratch & AI",
+      "year": "2024",
+      "image": "imagenes/certificados/certificado-scratch.png",
+      "tools": ["Scratch", "Piskel", "Machine Learning for Kids"],
+      "description": "En este curso aprendí los conceptos básicos de programación, como las variables, los bucles, las funciones, los eventos y las condicionales, utilizando la plataforma Scratch. Además, desarrollé mis propios videojuegos y creé diseños personalizados en la plataforma Piskel. También exploré los fundamentos del machine learning, entrenando mis propios modelos en ML for Kids e integrándolos en mis proyectos de Scratch, lo que me permitió combinar creatividad y tecnología de manera práctica e innovadora.",
+      "accomplishments": "Ganador: Proyecto más creativo"
+    },
+    {
+      "title": "Programación Lua en Roblox Studio",
+      "year": "2024",
+      "image": "imagenes/certificados/certificado-roblox.png",
+      "tools": ["Lua", "Roblox Studio"],
+      "description": "En este curso aprendí a crear videojuegos en Roblox Studio utilizando el lenguaje de programación Lua. Dominar el uso de Roblox Studio me permitió diseñar y desarrollar mis propios mundos interactivos, mientras que los conceptos fundamentales de programación con Lua me ayudaron a implementar mecánicas y funcionalidades personalizadas. Además, exploré cómo monetizar videojuegos a través de Robux, lo que me brindó una comprensión más amplia sobre el potencial comercial de los juegos en esta plataforma.",
+      "accomplishments": "Premio Mejor Videojuego"
+    },
+    {
+      "title": "Programación Python",
+      "year": "2025",
+      "image": "imagenes/certificados/certificado-python.png",
+      "tools": ["Python", "Visual Studio Code", "Programación Orientada a Objetos", "Tkinter"],
+      "description": "En este curso aprendí Python desde los conceptos fundamentales, como variables, bucles, condicionales y funciones, hasta programación orientada a objetos, lo que me permitió estructurar mis proyectos de manera más eficiente. Además, desarrollé aplicaciones gráficas utilizando la librería Tkinter, lo que me brindó la oportunidad de crear interfaces interactivas y funcionales, consolidando mis conocimientos en este lenguaje de programación versátil.",
+      "accomplishments": "Premio Mejor App"
+    }
+  ],
+
+  "proyectos": {
+    "description": "Las principales áreas en las que me desempeño son Desarrollo de Videojuegos en Scratch, Roblox Studio y Programación en Python. Conoce algunos de mis proyectos favoritos a continuación.",
+    "items": [
+      {
+        "category": "Scratch",
+        "title": "Mi versión de Flappy Bird",
+        "description": "En esta versión de flappy bird, tenemos que recolectar monedas.",
+        "image": "imagenes/proyectos/scratch-1.png",
+        "link": "https://www.punto-code.com/"
+      },
+      {
+        "category": "Roblox Studio",
+        "title": "Tower of Hell",
+        "description": "Mi versión del famoso juego 'Tower of Hell'.",
+        "image": "imagenes/proyectos/roblox-1.png",
+        "link": "https://www.punto-code.com/"
+      },
+      {
+        "category": "Python y Tkinter",
+        "title": "Crea un Código QR",
+        "description": "Esta es una app donde puedes crear tu propio código QR.",
+        "image": "imagenes/proyectos/python-1.png",
+        "link": "https://www.punto-code.com/"
+      }
+    ]
+  },
+
+  "testimonios": [
+    {
+      "text": "Ale se destacó en la participación de proyectos, y como capitana del equipo de programación python, demostrando ser una persona responsable y honesta.",
+      "cliente": "Mario Lopez",
+      "cargo": "Tutor en Punto Code",
+      "image": "imagenes/recomendaciones/tutor.png"
+    },
+    {
+      "text": "Ale ha demostrado ser una persona muy responsable y trabajadora. Me gusta mucho trabajar con ella en proyectos.",
+      "cliente": "Pedro M.",
+      "cargo": "Compañero de clase",
+      "image": "imagenes/recomendaciones/companero.png"
+    }
+  ]
+
+
+}
